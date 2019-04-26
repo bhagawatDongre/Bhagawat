@@ -1,4 +1,73 @@
-<b> Bhagawat Dongre</b>
+<html>
+<head><meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<style type="text/css">
+<!--
+span.cls_003{font-family:Arial,serif;font-size:13.1px;color:rgb(225,232,237);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_003{font-family:Arial,serif;font-size:13.1px;color:rgb(225,232,237);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_008{font-family:Arial,serif;font-size:26.1px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_008{font-family:Arial,serif;font-size:26.1px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_004{font-family:Arial,serif;font-size:10.6px;color:rgb(255,255,255);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_004{font-family:Arial,serif;font-size:10.6px;color:rgb(255,255,255);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_005{font-family:Arial,serif;font-size:12.1px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_005{font-family:Arial,serif;font-size:12.1px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_006{font-family:Arial,serif;font-size:11.1px;color:rgb(255,255,255);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_006{font-family:Arial,serif;font-size:11.1px;color:rgb(255,255,255);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_009{font-family:Arial,serif;font-size:12.1px;color:rgb(190,190,190);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_009{font-family:Arial,serif;font-size:12.1px;color:rgb(190,190,190);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_007{font-family:Arial,serif;font-size:11.1px;color:rgb(168,176,181);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_007{font-family:Arial,serif;font-size:11.1px;color:rgb(168,176,181);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_010{font-family:Arial,serif;font-size:15.8px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_010{font-family:Arial,serif;font-size:15.8px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_011{font-family:Arial,serif;font-size:11.6px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_011{font-family:Arial,serif;font-size:11.6px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_012{font-family:Arial,serif;font-size:10.6px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_012{font-family:Arial,serif;font-size:10.6px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_013{font-family:Arial,serif;font-size:9.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+div.cls_013{font-family:Arial,serif;font-size:9.1px;color:rgb(0,0,0);font-weight:normal;font-style:normal;text-decoration: none}
+-->
+</style>
+<script type="text/javascript" src="0a472ca8-680e-11e9-9d71-0cc47a792c0a_id_0a472ca8-680e-11e9-9d71-0cc47a792c0a_files/wz_jsgraphics.js"></script>
+</head>
+<body>
+<div style="position:absolute;left:50%;margin-left:-306px;top:0px;width:612px;height:792px;border-style:outset;overflow:hidden">
+<div style="position:absolute;left:0px;top:0px">
+<img src="0a472ca8-680e-11e9-9d71-0cc47a792c0a_id_0a472ca8-680e-11e9-9d71-0cc47a792c0a_files/background1.jpg" width=612 height=792></div>
+<div style="position:absolute;left:21.60px;top:41.37px" class="cls_003"><span class="cls_003">Contact</span></div>
+<div style="position:absolute;left:223.56px;top:39.55px" class="cls_008"><span class="cls_008">Bhagawat Dongre</span></div>
+<div style="position:absolute;left:21.60px;top:63.32px" class="cls_004"><span class="cls_004"> </span><A HREF="mailto:bhagawatdongre@gmail.com">bhagawatdongre@gmail.com</A> </div>
+<div style="position:absolute;left:223.56px;top:74.71px" class="cls_005"><span class="cls_005">Software Developer</span></div>
+<div style="position:absolute;left:21.60px;top:87.21px" class="cls_006"><span class="cls_006"> </span><A HREF="https://www.linkedin.com/in/bhagawatdongre-21?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BXc%2B7VL%2FpQR6ZlGOnQADL2A%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile">www.linkedin.com/in/</A> </div>
+<div style="position:absolute;left:223.56px;top:90.11px" class="cls_009"><span class="cls_009">Pune, Maharashtra, India</span></div>
+<div style="position:absolute;left:21.60px;top:101.61px" class="cls_006"><span class="cls_006">bhagawatdongre-21</span><span class="cls_007"> (LinkedIn)</span></div>
+<div style="position:absolute;left:223.56px;top:123.99px" class="cls_010"><span class="cls_010">Summary</span></div>
+<div style="position:absolute;left:21.60px;top:134.87px" class="cls_003"><span class="cls_003">Top Skills</span></div>
+<div style="position:absolute;left:21.60px;top:156.82px" class="cls_004"><span class="cls_004">Software Development</span></div>
+<div style="position:absolute;left:223.56px;top:153.21px" class="cls_005"><span class="cls_005">Programmer</span></div>
+<div style="position:absolute;left:21.60px;top:174.43px" class="cls_004"><span class="cls_004">Web Development</span></div>
+<div style="position:absolute;left:21.60px;top:192.02px" class="cls_004"><span class="cls_004">Core Java</span></div>
+<div style="position:absolute;left:223.56px;top:189.21px" class="cls_005"><span class="cls_005">Love programming because programming isn't about languages</span></div>
+<div style="position:absolute;left:223.56px;top:207.21px" class="cls_005"><span class="cls_005">and framework. it is about solving complex problems and improving</span></div>
+<div style="position:absolute;left:21.60px;top:224.27px" class="cls_003"><span class="cls_003">Languages</span></div>
+<div style="position:absolute;left:223.56px;top:225.21px" class="cls_005"><span class="cls_005">things.</span></div>
+<div style="position:absolute;left:21.60px;top:246.23px" class="cls_004"><span class="cls_004">Marathi</span></div>
+<div style="position:absolute;left:21.60px;top:263.83px" class="cls_004"><span class="cls_004">Hindi</span></div>
+<div style="position:absolute;left:223.56px;top:261.21px" class="cls_005"><span class="cls_005">AIM : Being at top in life with whichever thing i going to do</span></div>
+<div style="position:absolute;left:21.60px;top:281.43px" class="cls_004"><span class="cls_004">English</span></div>
+<div style="position:absolute;left:223.56px;top:311.29px" class="cls_010"><span class="cls_010">Experience</span></div>
+<div style="position:absolute;left:223.56px;top:345.51px" class="cls_005"><span class="cls_005">CONTENTSERV</span></div>
+<div style="position:absolute;left:223.56px;top:362.07px" class="cls_011"><span class="cls_011">Software Developer</span></div>
+<div style="position:absolute;left:223.56px;top:377.59px" class="cls_012"><span class="cls_012">November 2016 - Present</span></div>
+<div style="position:absolute;left:223.56px;top:431.86px" class="cls_010"><span class="cls_010">Education</span></div>
+<div style="position:absolute;left:223.56px;top:461.09px" class="cls_005"><span class="cls_005">Shri Chankya Education Societys Indira College of Engineering &</span></div>
+<div style="position:absolute;left:223.56px;top:479.09px" class="cls_005"><span class="cls_005">Technoloogy, Parandawadi, Tal.Maval,Dist. Pune</span></div>
+<div style="position:absolute;left:223.56px;top:498.20px" class="cls_012"><span class="cls_012">BE-CS, Computer Engineering · (2012 - 2016)</span></div>
+<div style="position:absolute;left:223.56px;top:530.09px" class="cls_005"><span class="cls_005">Marathwada Mitra mandal's college of science and commerce</span></div>
+<div style="position:absolute;left:223.56px;top:548.09px" class="cls_005"><span class="cls_005">pune17</span></div>
+<div style="position:absolute;left:223.56px;top:567.20px" class="cls_012"><span class="cls_012">Junior college, HSC (Science) · (2010 - 2012)</span></div>
+<div style="position:absolute;left:223.56px;top:599.09px" class="cls_005"><span class="cls_005">Laximibai Tapkir vidyalaya pune</span></div>
+<div style="position:absolute;left:223.56px;top:618.20px" class="cls_012"><span class="cls_012">Primary school  · (2000 - 2010)</span></div>
+<div style="position:absolute;left:383.98px;top:769.14px" class="cls_013"><span class="cls_013">Page 1 of 1</span></div>
+</div>
 
-
-...... TO BE CONTINUED
+</body>
+</html>
