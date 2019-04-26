@@ -1,6 +1,6 @@
 <body>
 
-<div><span class="cls_003">Contact</span></div>
+<div><span class="cls_003">Contact : 8600178123 </span></div>
 <div ><span class="cls_008">Bhagawat Dongre</span></div>
 <div><span class="cls_004"> </span><A HREF="mailto:bhagawatdongre@gmail.com">bhagawatdongre@gmail.com</A> </div>
 <div><span class="cls_005">Software Developer</span></div>
