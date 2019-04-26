@@ -1,6 +1,3 @@
-<html>
-<head><meta http-equiv=Content-Type content="text/html; charset=UTF-8">
-</head>
 <body>
 
 <div><span class="cls_003">Contact</span></div>
