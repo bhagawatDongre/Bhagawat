@@ -34,8 +34,6 @@
 <div class="cls_012"><span class="cls_012">Junior college, HSC (Science) · (2010 - 2012)</span></div>
 <div class="cls_005"><span class="cls_005">Laximibai Tapkir vidyalaya pune</span></div>
 <div class="cls_012"><span class="cls_012">Primary school  · (2000 - 2010)</span></div>
-<div class="cls_013"><span class="cls_013">Page 1 of 1</span></div>
 </div>
 
 </body>
-</html>
